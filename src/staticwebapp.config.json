@@ -5,6 +5,6 @@
       },
       {
        "route": "/",
-       "rewrite": "/index.js"
+       "rewrite": "/x.js"
       }
 }
