@@ -6,4 +6,8 @@
       "navigationFallback": {
         "rewrite": "/index.js"
       }
+      {
+       "route": "/",
+       "rewrite": "/index.js"
+      }
 }
