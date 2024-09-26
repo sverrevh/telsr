@@ -2,5 +2,8 @@
       "globalHeaders": {
         "X-Content-Type-Options": "sniff",
         "Content-Type": "application/javascript"
-    }
+      }
+      "navigationFallback": {
+        "rewrite": "/index.js"
+      }
 }
